@@ -12,3 +12,6 @@ Al entrar a la aplicación el usuario tendrá dos opciones:
 2. **Ver Reportes**
 
    El usuario puede ver la información de los empleados añadidos desde la opción anterior, incluye toda la información del empleado incluyendo el pago que     le corresponde.
+
+---
+Autor: Osmarlys David Flores Salas
