@@ -1,5 +1,6 @@
 # Sistema-Gestor-De-Nomina-Empleados
 **Práctica de Programación 2**
+
 Aplicación de consola que permite agregar empleados a la nómina en base a su tipo (Asalariado, por hora, por comisión, étc), el sistema calcula automáticamente el salario semanal de estos en base a los datos proporcionados por el usuario.
 
 Al entrar a la aplicación el usuario tendrá dos opciones:
